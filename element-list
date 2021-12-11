@@ -1,0 +1,6 @@
+club.minnced.discord.webhook
+club.minnced.discord.webhook.exception
+club.minnced.discord.webhook.external
+club.minnced.discord.webhook.receive
+club.minnced.discord.webhook.send
+club.minnced.discord.webhook.util
